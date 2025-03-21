@@ -29,7 +29,7 @@ Whatever happens, this becomes the scenario described in the next tension phase.
 The robber can't suggest anything that would instantly transport them to a location, especially the getaway boat. Otherwise, there'd be no game!
 
 #### Stealth
-The robber may choose to hide from the police instead of taking them head on. They aren't able to do this where a police officer or bystander would reasonably be able to see or hear them, who will snitch on them instantly. Otherwise, the robber loses 1🔥
+The robber may choose to hide from the police instead of taking them head on. They aren't able to do this where a police officer or bystander would reasonably be able to see or hear them, who will snitch on them instantly. Otherwise -1🔥
 
 #### Cool
 If the chief agrees what the robber attempts is *awesome*, throw twice and take the better result in favour of the robber.
