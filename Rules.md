@@ -55,7 +55,7 @@ The police will stop at nothing to get the museum's diamond back. If the chase b
 - **Kaboom:** Something nearby explodes and bursts into flames!
 - **Rainstorm:** An armoured vehicle smashes its way on the scene, its water cannon primed to send the **Robber** tumbling into the gutter.
 - **Charge:** A mighty white stallion gallops towards the **Robber**, intent on trampling them. On its back are two riot officers armed with net cannons.
-- **Unleash:** A couple of highly-trained german shepards are let loose on the town, trained on the **Robber**'s scent.
+- **Unleash:** A couple of highly-trained german shepherds are let loose on the town, trained on the **Robber**'s scent.
 Be careful not to overuse these as they can make things unfair or unrealistic for the **Robber**.
 
 ### Playing as the Chief
