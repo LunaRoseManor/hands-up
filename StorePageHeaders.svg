@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="207.75574mm"
+   height="40.705418mm"
+   viewBox="0 0 207.75574 40.705418"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\Users\Callum\Working\hands-up\EthosHeader.png"
+   inkscape:export-xdpi="300.01099"
+   inkscape:export-ydpi="300.01099"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="StorePageHeaders.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="8"
+     fit-margin-left="8"
+     fit-margin-bottom="8"
+     fit-margin-right="8"
+     inkscape:zoom="0.77682379"
+     inkscape:cx="218.1962"
+     inkscape:cy="125.51109"
+     inkscape:window-width="1812"
+     inkscape:window-height="1057"
+     inkscape:window-x="100"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="261.32053"
+       y="289.64096"
+       width="348.85645"
+       height="184.08293"
+       id="rect15918" />
+    <rect
+       x="185.37022"
+       y="326.97247"
+       width="550.96149"
+       height="149.326"
+       id="rect2630" />
+    <rect
+       x="261.32053"
+       y="289.64096"
+       width="348.85645"
+       height="184.08293"
+       id="rect15918-6" />
+  </defs>
+  <g
+     inkscape:label="Features"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     transform="translate(-3.2396784,-1.0136171)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-38.827982,-82.424312)"
+       id="text2628"
+       style="font-size:96px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect2630);fill:#0000ff"><tspan
+         x="185.37109"
+         y="423.07655"
+         id="tspan24853"><tspan
+           style="font-family:Impact;-inkscape-font-specification:Impact"
+           id="tspan24851">FEATURES</tspan></tspan></text>
+    <rect
+       style="fill:#0000ff;stroke-width:2"
+       id="rect24701-2"
+       width="191.75574"
+       height="1.1920878"
+       x="11.239678"
+       y="32.526947" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ethos"
+     style="display:inline"
+     transform="translate(-3.2396784,-1.0136171)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-58.991445,-72.607882)"
+       id="text15916"
+       style="font-size:96px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect15918-6);fill:#d40000"><tspan
+         x="261.32031"
+         y="385.74452"
+         id="tspan24857"><tspan
+           style="font-family:Impact;-inkscape-font-specification:Impact;fill:#ff0000"
+           id="tspan24855">ETHOS</tspan></tspan></text>
+    <rect
+       style="fill:#ff0000;stroke-width:2"
+       id="rect24701"
+       width="191.75574"
+       height="1.1920878"
+       x="11.239678"
+       y="32.526947" />
+  </g>
+</svg>
